@@ -1,0 +1,115 @@
+Device 0: AMD Instinct MI250X / MI250
+  UUID:                                           63323962-3731-6162-6164-626232366438
+  Total Global Memory:                            65520 MB
+  Shared Memory Per Block:                        64 KB
+  Registers Per Block:                            65536
+  Warp Size:                                      64
+  Memory Pitch:                                   2.09715e+06 KB
+  Max Threads Per Block:                          1024
+  Max Threads Dimensions:                         (1024, 1024, 1024)
+  Max Grid Dimensions:                            (2147483647, 65536, 65536)
+  Clock Rate:                                     1700 MHz
+  Total Constant Memory:                          2.09715e+06 KB
+  Compute Capability:                             9.0
+  Multi-Processor Count:                          104
+  Memory Clock Rate:                              1600 MHz
+  Memory Bus Width:                               4096 bits
+  L2 Cache Size:                                  8192 KB
+  Max Threads Per MultiProcessor:                 2048
+  Registers Per MultiProcessor:                   65536
+  Shared Memory Per MultiProcessor:               6656 KB
+  PCI Bus ID:                                     49
+  PCI Device ID:                                  0
+  PCI Domain ID:                                  0
+  Cooperative Launch Supported:                   1
+  Cooperative Multi-Device Launch Supported:      1
+  Memory Pools Supported:                         1
+  Is Large Bar:                                   1
+  ASIC Revision:                                  1
+  Texture Alignment (Bytes):            256
+  Texture Pitch Alignment (Bytes):      256
+  Device Overlap (Deprecated):          1
+  Multi-Processor Count:                104
+  Kernel Exec Timeout Enabled:          0
+  Integrated Device:                    0
+  Can Map Host Memory:                  1
+  Compute Mode:                         0
+  Max Texture 1D:                       16384
+  Max Texture 1D Mipmap:                2147483647
+  Max Texture 1D Linear:                2147483647
+  Max Texture 2D (Width, Height):       [16384, 16384]
+  Max Texture 2D Mipmap (Width, Height):[0, 0]
+  Max Texture 2D Linear (Width, Height, Depth):[0, 0, 0]
+  Max Texture 2D Gather (Width, Height):[0, 0]
+  Max Texture 3D (Width, Height, Depth):[16384, 16384, 8192]
+  Max Texture 3D Alt (Width, Height, Depth):      [0, 0, 0]
+  Max Texture Cubemap:                            0
+  Max Texture 1D Layered (Width, Layers):         [16384, 8192]
+  Max Texture 2D Layered (Width, Height, Layers): [16384, 16384, 8192]
+  Max Texture Cubemap Layered (Width, Layers):    [0, 0]
+  Max Surface 1D:                                 16384
+  Max Surface 2D (Width, Height):                 [16384, 16384]
+  Max Surface 3D (Width, Height, Depth):          [16384, 16384, 8192]
+  Max Surface 1D Layered (Width, Layers):         [16384, 8192]
+  Max Surface 2D Layered (Width, Height, Layers): [16384, 16384, 8192]
+  Max Surface Cubemap:                            0
+  Max Surface Cubemap Layered (Width, Layers):    [0, 0]
+  Surface Alignment (Bytes):                      256
+  Concurrent Kernels Supported:                   1
+  ECC Enabled:                                    0
+  PCI Bus ID:                                     49
+  PCI Device ID:                                  0
+  PCI Domain ID:                                  0
+  TCC Driver:                                     0
+  Async Engine Count:                             8
+  Unified Addressing Supported:                   0
+  Memory Clock Rate (MHz):                        1600
+  Memory Bus Width (bits):                        4096
+  L2 Cache Size (KB):                             8192
+  Persisting L2 Cache Max Size (Bytes):           8388608
+  Max Threads Per Multi-Processor:                2048
+  Stream Priorities Supported:                    1
+  Global L1 Cache Supported:                      1
+  Local L1 Cache Supported:                       1
+  Shared Memory Per Multi-Processor (KB):         6656
+  Registers Per Multi-Processor:                  65536
+  Managed Memory Supported:                       1
+  Is Multi-GPU Board:                             0
+  Multi-GPU Board Group ID:                       0
+  Host Native Atomic Supported:                   1
+  Single-to-Double Precision Perf Ratio:          0
+  Pageable Memory Access Supported:               0
+  Concurrent Managed Access Supported:            1
+  Compute Preemption Supported:                   0
+  Can Use Host Pointer For Registered Mem:        0
+  Cooperative Launch Supported:                   1
+  Cooperative Multi-Device Launch Supported:      1
+  Shared Memory Per Block (Opt-In) (KB):          0
+  Pageable Memory Access Uses Host Page Tables:   0
+  Direct Managed Mem Access From Host:            0
+  Max Blocks Per Multi-Processor:                 2
+  Access Policy Max Window Size:                  0
+  Reserved Shared Mem Per Block (Bytes):          0
+  Host Register Supported:                        1
+  Sparse HIP Array Supported:                     0
+  Host Register Read-Only Supported:              0
+  Timeline Semaphore Interop Supported:           0
+  Memory Pools Supported:                         1
+  GPU Direct RDMA Supported:                      0
+  GPU Direct RDMA Flush Writes Options:           0
+  GPU Direct RDMA Writes Ordering:                0
+  Memory Pool Supported Handle Types:             1
+  Deferred Mapping HIP Array Supported:           0
+  IPC Event Supported:                            1
+  Cluster Launch Supported:                       0
+  Unified Function Pointers Supported:            0
+  GCN Arch Name:                                  gfx90a:sramecc+:xnack-
+  Max Shared Memory Per MultiProcessor (KB):      64
+  Clock Instruction Rate (MHz):                   1000
+  Cooperative Multi-Device Unmatched Functions:   1
+  Cooperative Multi-Device Unmatched Grid Dimensions:1
+  Cooperative Multi-Device Unmatched Block Dimensions:1
+  Cooperative Multi-Device Unmatched Shared Memory:1
+  Is Large PCI Bar Device:                        1
+  ASIC Revision:                                  1
+
